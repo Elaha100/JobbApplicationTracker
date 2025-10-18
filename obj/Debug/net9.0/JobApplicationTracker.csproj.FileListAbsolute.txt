@@ -1,0 +1,14 @@
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\bin\Debug\net9.0\JobApplicationTracker.exe
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\bin\Debug\net9.0\JobApplicationTracker.deps.json
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\bin\Debug\net9.0\JobApplicationTracker.runtimeconfig.json
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\bin\Debug\net9.0\JobApplicationTracker.dll
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\bin\Debug\net9.0\JobApplicationTracker.pdb
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\obj\Debug\net9.0\JobApplicationTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\obj\Debug\net9.0\JobApplicationTracker.AssemblyInfoInputs.cache
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\obj\Debug\net9.0\JobApplicationTracker.AssemblyInfo.cs
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\obj\Debug\net9.0\JobApplicationTracker.csproj.CoreCompileInputs.cache
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\obj\Debug\net9.0\JobApplicationTracker.dll
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\obj\Debug\net9.0\refint\JobApplicationTracker.dll
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\obj\Debug\net9.0\JobApplicationTracker.pdb
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\obj\Debug\net9.0\JobApplicationTracker.genruntimeconfig.cache
+C:\Users\elaha\NBISchool\Inlämningar\JobApplicationTracker\JobApplicationTracker\JobApplicationTracker\obj\Debug\net9.0\ref\JobApplicationTracker.dll
