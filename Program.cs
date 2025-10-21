@@ -7,7 +7,7 @@ namespace JobApplicationTracker
         
         static void Main(string[] args)
         {
-            Console.WriteLine("Testar commit!");
+
             var manager = new JobManager();
             bool running = true;
 
