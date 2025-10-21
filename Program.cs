@@ -4,9 +4,10 @@ namespace JobApplicationTracker
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej från development!");
+
             var manager = new JobManager();
             bool running = true;
 
